@@ -19,9 +19,3 @@ au: Australia
 sa: South America
 jp: Japan
 in: India
-
-### Alter config.
-Go to server.properties file and change according to you.
-Not to allow players having cracked minecraft to play in your server :  set online-mode = true.
-Change motd as your need.
-You can alter pvp .
